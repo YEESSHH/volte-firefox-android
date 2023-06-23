@@ -56,8 +56,8 @@ ext.configurePublish = { groupIdArg, artifactIdArg, descriptionArg ->
 
                         developers {
                             developer {
-                                name = 'Mozilla Android Components Team'
-                                email = 'android-components@lists.mozilla.org'
+                                name = 'Foamball Holdings SL'
+                                email = 'emile@foamballholdings.com'
                             }
                         }
 

@@ -1,5 +1,5 @@
 # Maven group ID used for all components
-componentsGroupId: "org.mozilla.components"
+componentsGroupId: "com.foamball.volte.android"
 
 # Synchronized build configuration for all modules
 compileSdkVersion: 34
